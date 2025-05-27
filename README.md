@@ -1,7 +1,3 @@
-Hier ist eine kompakte **Lernziel-Zusammenfassung VWL Teil 2 – Konjunktur**, ideal als Spickzettel für deine OLAT-Prüfung (druckbar auf A4):
-
----
-
 ### 📊 **BIP (Bruttoinlandprodukt)**
 
 * **Definition:** Gesamtwert aller Güter & Dienstleistungen, die in einem Jahr in einem Land produziert werden.
