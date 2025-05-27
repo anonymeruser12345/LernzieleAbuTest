@@ -1,59 +1,106 @@
-### **Lösungen – Konsum & Geld Teil 2**  
+Hier ist eine kompakte **Lernziel-Zusammenfassung VWL Teil 2 – Konjunktur**, ideal als Spickzettel für deine OLAT-Prüfung (druckbar auf A4):
 
-#### **Konsumkreditgesetz (KKG)**  
-- Das KKG schützt Kreditnehmer vor Überschuldung. Es schreibt vor, dass Kreditgeber eine Bonitätsprüfung durchführen müssen.  
-- Kredite mit einer Laufzeit unter 3 Monaten oder mit Zinsen unter 10% fallen nicht unter das KKG.  
+---
 
-#### **Vier Kreditarten**  
-1. **Privatkredit** – Ein Darlehen von einer Bank oder Kreditinstitut, z. B. für Konsumgüter.  
-2. **Hypothek** – Kredit für den Kauf von Immobilien, abgesichert durch die Immobilie.  
-3. **Kreditkarte** – Eine Kreditlinie mit monatlicher Abrechnung und hohen Zinsen bei Nichtzahlung.  
-4. **Leasing** – Mietähnliches Finanzierungsmodell für Fahrzeuge oder Geräte.  
+### 📊 **BIP (Bruttoinlandprodukt)**
 
-#### **Bonität (Kreditwürdigkeit)**  
-- Bonität bezeichnet die finanzielle Fähigkeit, einen Kredit zurückzuzahlen.  
-- Sie wird anhand von Einkommen, bestehenden Schulden und Zahlungsverhalten geprüft.  
+* **Definition:** Gesamtwert aller Güter & Dienstleistungen, die in einem Jahr in einem Land produziert werden.
+* **Berechnung:**
+  BIP = Konsum + Investitionen + Staatsausgaben + Nettoexporte (Exporte – Importe)
+* **Nominal vs. real:**
 
-#### **Leasing**  
-✅ **Vorteile:**  
-- Kein hoher Kaufpreis auf einmal  
-- Neueste Modelle mit Garantie  
-- Oft steuerliche Vorteile für Unternehmen  
+  * *Nominales BIP* = zu aktuellen Preisen
+  * *Reales BIP* = preisbereinigt (Teuerung berücksichtigt)
+* **CH & EU Vergleich:** Schweiz: hohes BIP pro Kopf, stark durch Dienstleistungssektor geprägt
 
-❌ **Nachteile:**  
-- Gesamtkosten meist höher als beim Kauf  
-- Zusätzliche Kosten (z. B. Kaution, Versicherung, hohe Schlusszahlung)  
-- Fahrzeug gehört nicht dem Leasingnehmer  
+---
 
-#### **Rechtliche Grundlage der Betreibung**  
-- Betreibungsgesetz **(Schweizerisches Schuldbetreibungs- und Konkursrecht, SchKG)**  
+### 📈 **Konjunktur & Zyklus**
 
-#### **Drei Betreibungsarten**  
-1. **Betreibung auf Pfändung** – Für Privatpersonen ohne Handelsregistereintrag (z. B. Lohnpfändung).  
-2. **Betreibung auf Konkurs** – Für Firmen oder Personen mit Handelsregistereintrag.  
-3. **Betreibung auf Pfandverwertung** – Falls eine Schuld durch ein Pfand (z. B. Hypothek) abgesichert ist.  
+* **Definition Konjunktur:** Wirtschaftslage eines Landes, kurzfristige Schwankungen der Wirtschaftsentwicklung
+* **4 Phasen des Konjunkturzyklus:**
 
-#### **Ablauf einer Betreibung auf Pfändung**  
-1. **Gläubiger stellt Betreibungsbegehren beim Betreibungsamt**  
-2. **Betreibungsamt stellt Zahlungsbefehl zu**  
-3. **Schuldner kann zahlen, Rechtsvorschlag erheben oder nicht reagieren**  
-4. **Falls nicht gezahlt: Fortsetzungsbegehren durch Gläubiger**  
-5. **Pfändung durch das Betreibungsamt**  
-6. **Pfändungsurkunde wird erstellt (Existenzminimum wird berücksichtigt)**  
-7. **Verwertung der gepfändeten Gegenstände oder Lohnpfändung**  
+  1. **Aufschwung**: steigender Konsum, gute Stimmung
+  2. **Hochkonjunktur (Boom)**: Übernachfrage, Inflation möglich
+  3. **Abschwung (Rezession)**: sinkender Konsum, Investitionen sinken
+  4. **Depression**: hohe Arbeitslosigkeit, tiefe Nachfrage
+* **Indikator:** BIP-Entwicklung über die Zeit
 
-#### **Fachbegriffe einer Betreibung auf Pfändung**  
-- **Zahlungsbefehl** – Offizielle Aufforderung zur Zahlung  
-- **Rechtsvorschlag** – Einspruch gegen die Betreibung  
-- **Pfändung** – Beschlagnahmung von Lohn oder Vermögen  
-- **Existenzminimum** – Betrag, der dem Schuldner zum Leben bleibt  
-- **Verwertung** – Verkauf der gepfändeten Gegenstände  
+---
 
-#### **Massnahmen zur Verhinderung von Verschuldung**  
-- Budgetplanung und Haushaltsbuch führen  
-- Konsumkredite und Leasing vermeiden  
-- Nur Kredite aufnehmen, wenn Rückzahlung sicher ist  
-- Frühzeitige Beratung bei finanziellen Schwierigkeiten (z. B. Caritas)  
+### 🏛 **Fiskalpolitik**
 
-#### **Definition Existenzminimum**  
-- Das Existenzminimum ist der minimale Betrag, den eine Person zum Leben benötigt. Dazu gehören Miete, Krankenkasse, Lebensmittel und Grundbedarf.
+* Staat steuert Konjunktur durch Ausgaben & Steuern
+* **Antizyklisch:**
+
+  * **In Rezession:** Staat investiert mehr, senkt Steuern
+  * **Im Boom:** Staat spart, erhöht Steuern
+
+---
+
+### 💶 **LIK & Inflation**
+
+* **LIK (Landesindex der Konsumentenpreise):**
+
+  * Misst Teuerung, zeigt Preisveränderung des *Warenkorbs* (typische Ausgaben eines Haushalts)
+* **Warenkorb:**
+
+  * Zusammengesetzt aus Ausgabekategorien (Wohnen, Gesundheit, Verkehr, etc.)
+
+---
+
+### 📉 **Inflation & Deflation**
+
+* **Inflation:** generelle Preissteigerung
+
+  * *Ursachen:*
+
+    * **Nachfrageinflation** (z. B. Boom)
+    * **Angebotsinflation** (z. B. höhere Produktionskosten)
+    * **Importierte Inflation**
+    * **Lohn-Preis-Spirale**
+  * *Folgen:* Kaufkraftverlust, Ersparnisse verlieren an Wert
+* **Deflation:** generelle Preissenkung → Konsumrückgang, Firmenverluste
+* **Hyperinflation:** extreme Inflation (z. B. >50 % monatlich)
+
+---
+
+### 🏦 **Schweizerische Nationalbank (SNB)**
+
+* **Ziele & Aufgaben:**
+
+  * Preisstabilität (LIK \~2 %)
+  * Steuerung durch Geldpolitik
+* **Instrumente:**
+
+  * **Leitzins** (Zinssatz, zu dem sich Banken Geld leihen)
+
+    * **Erhöhung (straffend):** weniger Kredite, weniger Konsum → Inflation sinkt
+    * **Senkung (lockernd):** mehr Kredite, mehr Konsum → Wirtschaft ankurbeln
+
+---
+
+### 📉📈 **Geldpolitik der SNB – Wirkungskette**
+
+1. SNB verändert Leitzins
+2. Banken geben Änderung an Kunden weiter
+3. Beeinflusst Konsum, Investitionen
+4. Wirkung auf Inflation & Konjunktur
+
+---
+
+### 🧘‍♂️ **Wohlstand vs. Wohlfahrt**
+
+* **Wohlstand:** materieller Reichtum (z. B. BIP pro Kopf)
+* **Wohlfahrt:** Lebensqualität, auch immaterielle Werte
+* **Wohlfahrts-Kriterien:**
+
+  1. Bildung
+  2. Gesundheit
+  3. Umweltqualität
+  4. Soziale Sicherheit
+  5. Freizeit / Arbeitsbedingungen
+
+---
+
+Wenn du möchtest, kann ich das auch als schön formatiertes PDF oder Spickzettel im Word-Format vorbereiten. Sag einfach Bescheid!
